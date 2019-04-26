@@ -85,7 +85,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="106" />
-    <option name="y" value="89" />
+    <option name="y" value="23" />
     <option name="width" value="960" />
     <option name="height" value="824" />
   </component>
@@ -134,7 +134,7 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="/usr/local/bin/python3.7" />
+      <option name="SDK_HOME" value="$USER_HOME$/PycharmProjects/luffyPy/venv/bin/python" />
       <option name="WORKING_DIRECTORY" value="" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
