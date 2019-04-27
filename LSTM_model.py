@@ -30,9 +30,9 @@ model.compile(optimizer="adam", loss="mean_squared_error")
 
 model.summary()
 
-model.fit(X_train, Y_train, epochs=200)
+model.fit(X_train, Y_train, epochs=50, validation_data=[X_test, y_val])
 
-print(model.evaluate(X_test, Y_test))
+#print(model.evaluate(X_test, Y_test))
 
 data = pdr.get_data_yahoo("AAPL", "2017-12-19", "2018-01-03")
 stock = data["Adj Close"]
