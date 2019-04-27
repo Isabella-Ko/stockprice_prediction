@@ -21,14 +21,14 @@ Y_train = process.Y_train / 200
 X_test = process.X_test.reshape(359, 10, 1) / 200
 Y_test = process.Y_test / 200
 
-model = Sequential()
-# define CNN model
-model.add(TimeDistributed(Conv2D(...))
-model.add(TimeDistributed(MaxPooling2D(...)))
-model.add(TimeDistributed(Flatten()))
-# define LSTM model
-model.add(LSTM(...))
-model.add(Dense(...))
+# model = Sequential()
+# # # define CNN model
+# # model.add(TimeDistributed(Conv2D(...))
+# # model.add(TimeDistributed(MaxPooling2D(...)))
+# # model.add(TimeDistributed(Flatten()))
+# # # define LSTM model
+# # model.add(LSTM(...))
+# # model.add(Dense(...))
 
 model.compile(optimizer="adam", loss="mean_squared_error")
 
