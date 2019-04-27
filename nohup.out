@@ -1,0 +1,27 @@
+[I 17:51:16.233 NotebookApp] Writing notebook server cookie secret to /run/user/3020/jupyter/notebook_cookie_secret
+[I 17:51:17.341 NotebookApp] The port 8888 is already in use, trying another port.
+[I 17:51:17.341 NotebookApp] The port 8889 is already in use, trying another port.
+[I 17:51:17.342 NotebookApp] The port 8890 is already in use, trying another port.
+[I 17:51:17.382 NotebookApp] JupyterLab extension loaded from /home/lab/isabella/.pyenv/versions/anaconda3-2019.03/lib/python3.7/site-packages/jupyterlab
+[I 17:51:17.382 NotebookApp] JupyterLab application directory is /home/lab/isabella/.pyenv/versions/anaconda3-2019.03/share/jupyter/lab
+[I 17:51:17.384 NotebookApp] Serving notebooks from local directory: /home/lab/isabella/stockprice_prediction
+[I 17:51:17.384 NotebookApp] The Jupyter Notebook is running at:
+[I 17:51:17.384 NotebookApp] http://localhost:8891/?token=68f43ff164213124b4acff048fc2f2c8b4ee78b2af1126d4
+[I 17:51:17.384 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 17:51:17.388 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///run/user/3020/jupyter/nbserver-6253-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8891/?token=68f43ff164213124b4acff048fc2f2c8b4ee78b2af1126d4
+[?1049h[22;0;0t[1;24r(B[m[4l[?7h[?1h=[39;49m[39;49m[37m[40m[H[2J[37m[40m[J(B[m[39;49m[37m[40m[37m[40m[J[39;49m(B[m[22d[93m[44mGetting file://localhost/run/user/3020/jupyter/nbserver-6253-open.html[K[39;49m(B[m
+
+[24;1H[?1049l[23;0;0t[?1l>[I 17:53:53.414 NotebookApp] 302 GET /tree (::1) 2.61ms
+[I 17:54:56.470 NotebookApp] 302 POST /login?next=%2Ftree (::1) 2.49ms
+[I 17:57:48.721 NotebookApp] Creating new notebook in 
+[I 17:57:48.739 NotebookApp] Writing notebook-signing key to /home/lab/isabella/.local/share/jupyter/notebook_secret
+[I 17:57:50.242 NotebookApp] Kernel started: 773ec8f4-2cba-4f12-b545-d51e0b7fe244
+[I 17:57:51.859 NotebookApp] Adapting to protocol v5.1 for kernel 773ec8f4-2cba-4f12-b545-d51e0b7fe244
+[I 17:59:51.650 NotebookApp] Saving file at /Untitled.ipynb
+[I 20:25:16.336 NotebookApp] Starting buffering for 773ec8f4-2cba-4f12-b545-d51e0b7fe244:a0e40d98acc24d428fd8ff4bc2134588
+[I 00:20:35.492 NotebookApp] 302 GET / (::1) 0.81ms
