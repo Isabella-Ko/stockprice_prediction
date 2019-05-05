@@ -31,3 +31,8 @@ CNN + LSTM | 1.3624e-04 | 1.0638e-04
 - Training loss vs Validation loss (50 epochs) (half-year)
 <img src="https://github.com/Isabella-Ko/stockprice_prediction/blob/master/figures/CNN%20%2B%20LSTM.50ep.1e-05lr.0head.png" width="500"/>
 
+This project is inspired by VivekPa.
+His project can be found here:
+[IntroNeuralNetworks](https://github.com/VivekPa/IntroNeuralNetworks)
+
+The reference of CNN+LSTM model:[Reference of CNN+LSTM model](http://www.naun.org/main/NAUN/neural/2018/a162016-062.pdf)
