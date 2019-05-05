@@ -35,4 +35,4 @@ This project is inspired by VivekPa.
 His project can be found here:
 [IntroNeuralNetworks](https://github.com/VivekPa/IntroNeuralNetworks)
 
-The reference of CNN+LSTM model:[Reference of CNN+LSTM model](http://www.naun.org/main/NAUN/neural/2018/a162016-062.pdf)
+The CNN+LSTM model is inspired by Sneh Jain, Dr. Roopam Gupta and Dr. Asmita A. Moghe. Their paper can be found here: [Stock Price Prediction on Daily Stock Data using Deep Neural Networks](http://www.naun.org/main/NAUN/neural/2018/a162016-062.pdf)
